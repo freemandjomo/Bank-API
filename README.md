@@ -47,6 +47,7 @@ GET /
 ```json
 "Server läuft!"
 ```
+![](https://github.com/freemandjomo/Bank-API/blob/main/Get%20request%20pic.png)
 
 ### 2. Alle Konten abrufen
 ```http
