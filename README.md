@@ -86,6 +86,7 @@ POST /transfer
   "amount": 100
 }
 ```
+![](https://github.com/freemandjomo/Bank-API/blob/main/Post_request%20pic.png)
 
 **Response (Erfolg):**
 ```json
