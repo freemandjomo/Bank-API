@@ -155,7 +155,7 @@ Die API gibt folgende Fehlermeldungen zurück:
 
 ## 🔮 Zukünftige Erweiterungen
 
-- [+] Datenbankintegration (MongoDB/PostgreSQL)
+- [ ] Datenbankintegration (MongoDB/PostgreSQL)
 - [ ] Benutzer-Authentifizierung und -Autorisierung
 - [ ] Transaktionshistorie
 - [ ] Konto erstellen/löschen Endpunkte
