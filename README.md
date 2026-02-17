@@ -6,7 +6,7 @@ Eine einfache RESTful Bank-API, entwickelt mit Node.js und Express, die grundleg
 
 - ✅ Alle Konten anzeigen
 - ✅ Einzelnes Konto nach ID abrufen
-- ✅ Geldtransfer zwischen Konten durchführen
+- ✅ Geldtransfer zwischen Konten durchführen.
 - ✅ Automatische Validierung von Transaktionen.
 - ✅ Fehlerbehandlung für ungültige Anfragen.
 
