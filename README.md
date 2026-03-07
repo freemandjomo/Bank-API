@@ -1,4 +1,4 @@
-# 🏦 Bank API
+# 🏦 Bank API!
 
 Eine einfache RESTful Bank-API, entwickelt mit Node.js und Express, die grundlegende Banking-Operationen wie Kontoverwaltung und Geldtransfers ermöglicht.
 
